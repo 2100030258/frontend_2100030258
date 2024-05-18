@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("path/to/your/image.jpg"); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 15px;
+  }
+  
+  input[type="radio"],
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  #submitted-data {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  #submitted-data p {
+    margin-bottom: 10px;
+  }
+  
+  #submitted-data h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/941/083/non_2x/cosmetic-background-for-product-branding-and-packaging-presentation-geometry-form-square-molding-on-podium-stage-with-shadow-of-leaf-background-illustration-design-vector.jpg"); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Other styles remain the same */
+  
